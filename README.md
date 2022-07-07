@@ -18,4 +18,10 @@
 
 **Мои проекты:**
 
-Kotlin, Clean architecture (https://github.com/EkaterinaT89/TravelTime)
+:airplane: Kotlin, Clean architecture (https://github.com/EkaterinaT89/TravelTime)
+:tennis: Kotlin, MVVM, проект для https://procourt.ru/ - приложение для поиска партнеров, клубов, тренеров для игры в большой теннис (https://github.com/EkaterinaT89/Procourt)
+
+:mortar_board: Kotlin, MVVM проект, релизованный в ходе обучения в Нетологии по курсу "Android разработчик" (https://github.com/EkaterinaT89/NMedia)
+:mortar_board: Java курсовая работа по модулю Java (https://github.com/EkaterinaT89/Converter_to_text_graphic)
+:mortar_board: Kotlin, MVVM дипломный проект (https://github.com/EkaterinaT89/InMedia)
+
