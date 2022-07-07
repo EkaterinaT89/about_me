@@ -27,9 +27,9 @@
 - :mortar_board: Kotlin, проект, реализованный при создании custom view с анимацией (https://github.com/EkaterinaT89/CustomView)
 - :mortar_board: Kotlin, проект, реализованный на курсе "Android разработка" (https://github.com/EkaterinaT89/Voice_app_for_search) 
 
-**Рекомендации: **
+**Рекомендации:**
 
 ООО "ГеймингСофт", сайт http://gamingsoft.ru/ 
 
 
-**Сертификаты Нетологии: **
+**Сертификаты Нетологии:**
