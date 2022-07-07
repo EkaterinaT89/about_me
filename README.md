@@ -45,6 +45,10 @@ https://github.com/EkaterinaT89/about_me/blob/main/%D0%A0%D0%B5%D0%BA%D0%BE%D0%B
 - Продвинутая разработка под Android https://github.com/EkaterinaT89/about_me/blob/main/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%B4%20Android.pdf
 - Промышленная разработка под Android https://github.com/EkaterinaT89/about_me/blob/main/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%B4%20Android.pdf 
 
-**Бейджи Google**
+**Бейджи Google:**
 
 <img src="https://user-images.githubusercontent.com/88279403/177795787-1fa25d48-9beb-4998-ab18-f2014d5f07f2.png" width=90% height=90%>
+
+**Обо мне:**
+Android разработчик на Kotlin с опытом разработки в сфере спорта и игорного бизнеса, изучила курс профессиональной переподготовки на Android разработчика в ООО «ЦОО «Нетология групп», изучила курс для Android Developer от Google. Постоянно изучаю новейшие технологии разработки и применяю их в своих проектах, читаю специализированную литературу. Принимаю участие в хакатоне "Умный город" https://hackathon.forumsmartcity.ru/?ysclid=l5b4jawavf654735969 в команде, где мы разрабатываем мобильное приложение на Kotlin по спортивной тематике. Уделяю программированию не меньше 3-4 часов в день.
+В поиске удаленной работы на полный рабочий день. 
