@@ -4,7 +4,7 @@
 
 **Знаю и умею применять:**
 
-:white_check_mark: Языки программирования: Kotlin, Java \
+- :white_check_mark: Языки программирования: Kotlin, Java
 - :white_check_mark: Операционные системы: Android 
 - :white_check_mark: Базы данных: SQL, SQLite 
 - :white_check_mark: Фреймворки: JUnit, Dagger, Hilt Dagger 
@@ -24,4 +24,12 @@
 - :mortar_board: Kotlin, MVVM проект, релизованный в ходе обучения в Нетологии по курсу "Android разработчик" (https://github.com/EkaterinaT89/NMedia)
 - :mortar_board: Java курсовая работа по модулю Java (https://github.com/EkaterinaT89/Converter_to_text_graphic)
 - :mortar_board: Kotlin, MVVM дипломный проект (https://github.com/EkaterinaT89/InMedia)
+- :mortar_board: Kotlin, проект, реализованный при создании custom view с анимацией (https://github.com/EkaterinaT89/CustomView)
+- :mortar_board: Kotlin, проект, реализованный на курсе "Android разработка" (https://github.com/EkaterinaT89/Voice_app_for_search) 
 
+**Рекомендации: **
+
+ООО "ГеймингСофт", сайт http://gamingsoft.ru/ 
+
+
+**Сертификаты Нетологии: **
