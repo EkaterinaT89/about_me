@@ -46,4 +46,5 @@ https://github.com/EkaterinaT89/about_me/blob/main/%D0%A0%D0%B5%D0%BA%D0%BE%D0%B
 - Промышленная разработка под Android https://github.com/EkaterinaT89/about_me/blob/main/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%B4%20Android.pdf 
 
 **Бейджи Google**
-<img src="https://user-images.githubusercontent.com/88279403/177795787-1fa25d48-9beb-4998-ab18-f2014d5f07f2.png" width=20% height=20%>
+
+<img src="https://user-images.githubusercontent.com/88279403/177795787-1fa25d48-9beb-4998-ab18-f2014d5f07f2.png" width=30% height=30%>
