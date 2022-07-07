@@ -47,4 +47,4 @@ https://github.com/EkaterinaT89/about_me/blob/main/%D0%A0%D0%B5%D0%BA%D0%BE%D0%B
 
 **Бейджи Google**
 
-<img src="https://user-images.githubusercontent.com/88279403/177795787-1fa25d48-9beb-4998-ab18-f2014d5f07f2.png" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/88279403/177795787-1fa25d48-9beb-4998-ab18-f2014d5f07f2.png" width=50% height=50%>
